@@ -1,0 +1,9 @@
+# per-playlist work folders: downloaded audio, built mods, reports
+*/songs/
+*/mod/
+*/.tmp/
+*/fetched.json
+*/report.json
+*.mka
+*.zip
+__pycache__/
